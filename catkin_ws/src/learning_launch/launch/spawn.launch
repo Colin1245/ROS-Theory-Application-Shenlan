@@ -1,0 +1,18 @@
+<launch>
+
+    <param name="/turtle_number"   value="2"/>
+    <arg name="TurtleName1"  default="Tom" />
+    <arg name="TurtleName2"  default="Jerry" />
+
+    <node pkg="turtlesim" type="turtlesim_node" name="turtlesim_node">
+		<param name="turtle_name1"   value="$(arg TurtleName1)"/>
+		<param name="turtle_name2"   value="$(arg TurtleName2)"/>
+
+		<rosparam file="$(find learning_launch)/config/param.yaml" command="load"/>
+    </node>
+
+    <node pkg="learning_communication" type="turtle_spawn" name="spawn" output="screen"/>
+
+</launch>
+
+

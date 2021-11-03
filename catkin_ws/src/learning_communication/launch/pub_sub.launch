@@ -1,0 +1,6 @@
+<launch>
+    <node pkg="learning_communication" type="pose_subscriber" name="listener" />
+    <node pkg="learning_communication" type="v_publisher" name="talker" /> 
+</launch>
+
+

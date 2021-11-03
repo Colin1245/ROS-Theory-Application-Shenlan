@@ -1,0 +1,9 @@
+/home/lwh/Desktop/Learning/shenlanROS/catkin_ws/install/_setup_util.py
+/home/lwh/Desktop/Learning/shenlanROS/catkin_ws/install/env.sh
+/home/lwh/Desktop/Learning/shenlanROS/catkin_ws/install/setup.bash
+/home/lwh/Desktop/Learning/shenlanROS/catkin_ws/install/local_setup.bash
+/home/lwh/Desktop/Learning/shenlanROS/catkin_ws/install/setup.sh
+/home/lwh/Desktop/Learning/shenlanROS/catkin_ws/install/local_setup.sh
+/home/lwh/Desktop/Learning/shenlanROS/catkin_ws/install/setup.zsh
+/home/lwh/Desktop/Learning/shenlanROS/catkin_ws/install/local_setup.zsh
+/home/lwh/Desktop/Learning/shenlanROS/catkin_ws/install/.rosinstall
